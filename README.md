@@ -2,9 +2,7 @@
 
 Aplicación en React para filtrar series por título y género, consultar sus fichas y guardar favoritos en el navegador.
 
-<img src="media/demo.webp" width="800" alt="Filtro por género y título, seguido de Person of Interest en favoritos">
-
-[Ver la demo en MP4 · 8 s](media/demo.mp4)
+<a href="media/demo.mp4"><img src="media/demo.webp" width="800" alt="Filtro por género y título, seguido de Person of Interest en favoritos"></a>
 
 ## Ejecutar en local
 
